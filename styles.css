@@ -103,3 +103,6 @@ ul li {
     opacity: 1;
   }
 }
+img {
+  transform-origin: center center;
+}
